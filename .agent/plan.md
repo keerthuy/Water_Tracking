@@ -114,5 +114,4 @@ HealthNexa (HealthMate) is an intelligent daily health companion Android applica
   - build pass
   - app does not crash
   - critic_agent verifies application stability, absence of crashes, and compliance with user requirements
-- **Duration:** N/A
 
